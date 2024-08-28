@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+def wc (filename):
+    nlines = 0
+    nwords = 0
+    nchars = 0
+    nlow   = 0
+    nupp   = 0
+    # open file in read mode
+    # go over every line
+    # Increment nlines by one
+    # Homework: count Character, words, lower and uppercase chars
+    # close file
+    return(tuple((nlines,nwords,nchars,nlow, nupp, filename)    
+
+# use our Python file for testing
+print(wc("wc.py"))

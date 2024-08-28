@@ -1,0 +1,5 @@
+Tauqeer	20	a
+Tauqeer	40	m
+Tauqeer	60	a
+Tauqeer	80	m
+Tauqeer	80	a
